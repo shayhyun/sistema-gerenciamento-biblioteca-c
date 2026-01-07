@@ -29,4 +29,18 @@ Criar um sistema simples de gerenciamento de livros, permitindo cadastro, listag
 
 ## 🛠️ Tecnologias
 - **Linguagem:** C
-- **Compi**
+- **Compilador:** GCC (MinGW-w64)
+- **Editor:** Visual Studio Code
+- **Controle de versão:** Git
+- **Repositório:** GitHub
+
+---
+
+## ▶️ Como compilar o projeto
+
+No terminal, dentro da pasta do projeto:
+
+```bash
+gcc biblioteca.c -o biblioteca
+
+
